@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
         textTheme: TextTheme(
-          body1: TextStyle(
+          bodyText1: TextStyle(
             color: Colors.white,
           ),
         ),
